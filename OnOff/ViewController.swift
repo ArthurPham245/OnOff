@@ -19,7 +19,9 @@ class ViewController: UIViewController {
     Lightison = false
         
     }
-
+    func whatever () {
+        
+    }
 
 
     @IBAction func OffOn(_ sender: Any) {
